@@ -1,0 +1,40 @@
+Subscription-Based Content API
+
+Description:
+Develop a backend API for a premium content plaƍorm where users must have an active
+subscription to access protected content. The system should enforce access control based on
+user subscription status and support basic subscription management.
+
+Technologies:
+ Choose a backend framework (Node.js or Python)
+ Database: PostgreSQL (recommended)
+
+Tasks:
+1. User Roles:
+ Deƈne user roles: Free and Premium.
+ Store and manage user subscription status.
+2. Protected Content Access:
+ Implement middleware that restricts access to premium content routes.
+ Only users with an active Premium subscription should access protected
+resources.
+3. Subscription Upgrade:
+ Provide an endpoint to upgrade a user from Free to Premium.
+ Simulate a successful payment process.
+4. Activity Logging:
+ Log each instance of premium content access.
+ Ensure logs capture relevant request details for analytics.
+5. API Behavior:
+ Use appropriate HTTP status codes.
+ Validate request inputs.
+ Handle common errors (unauthorized access, invalid requests, resource not
+found).
+6. Submission:
+ Include a README with setup instructions.
+ Provide steps to run the application locally.
+
+ Include example API requests.
+Optional Enhancements:
+ Subscription expiration logic (e.g., Premium access expires aƌer 30 days)
+ Generate monthly usage reports in CSV format
+ Admin endpoint to view access logs
+ Docker setup for local deployment
