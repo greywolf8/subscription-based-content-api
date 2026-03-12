@@ -46,7 +46,7 @@ A comprehensive backend API for a premium content platform where users must have
 ![Get Subscriptions](screenshots/05-get-subscriptions.png)
 
 #### Update Subscription
-![Update Subscription](screenshots/06-update-subscription.png)
+![Update Subscription](screenshots/upgrade-subscription.png)
 
 #### Delete Subscription
 ![Delete Subscription](screenshots/07-delete-subscription.png)
