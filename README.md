@@ -30,12 +30,7 @@ A comprehensive backend API for a premium content platform where users must have
 
 ---
 
-### User APIs
 
-#### Get Current User Profile
-![User Profile](screenshots/03-get-user-profile.png)
-
----
 
 ### Subscription APIs
 
