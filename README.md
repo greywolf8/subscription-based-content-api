@@ -18,6 +18,69 @@ A comprehensive backend API for a premium content platform where users must have
 - **Docker Deployment**: Complete containerized setup with PostgreSQL and Adminer
 - **Security Features**: Rate limiting, input validation, CORS protection, and security headers
 
+## Implementation Screenshots
+
+### User Authentication
+
+#### Register User
+![Register](screenshots/01-user-register-success.png)
+
+#### Login User
+![Login](screenshots/02-user-login-jwt.png)
+
+---
+
+### User APIs
+
+#### Get Current User Profile
+![User Profile](screenshots/03-get-user-profile.png)
+
+---
+
+### Subscription APIs
+
+#### Create Subscription
+![Create Subscription](screenshots/04-create-subscription.png)
+
+#### Get Subscriptions
+![Get Subscriptions](screenshots/05-get-subscriptions.png)
+
+#### Update Subscription
+![Update Subscription](screenshots/06-update-subscription.png)
+
+#### Delete Subscription
+![Delete Subscription](screenshots/07-delete-subscription.png)
+
+---
+
+### Content APIs
+
+#### Create Content
+![Create Content](screenshots/08-create-content.png)
+
+#### Fetch Content (Subscription Protected)
+![Fetch Content](screenshots/09-fetch-content.png)
+
+
+### Database Tables
+
+#### Users Table
+![Users](screenshots/users-table.png)
+
+#### Content Table
+![Content](screenshots/content-table.png)
+
+#### Activity Logs
+![Logs](screenshots/activity-logs.png)
+
+### docker deployment
+
+#### running containers
+
+![logs](screenshots/docker)
+
+
+
 ## 🛠 **Technologies**
 
 - **Backend**: Node.js with Express.js
