@@ -77,7 +77,7 @@ A comprehensive backend API for a premium content platform where users must have
 
 #### running containers
 
-![logs](screenshots/docker)
+![logs](screenshots/docker.png)
 
 
 
