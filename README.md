@@ -39,27 +39,22 @@ A comprehensive backend API for a premium content platform where users must have
 
 ### Subscription APIs
 
-#### Create Subscription
-![Create Subscription](screenshots/04-create-subscription.png)
 
-#### Get Subscriptions
-![Get Subscriptions](screenshots/05-get-subscriptions.png)
 
 #### Update Subscription
 ![Update Subscription](screenshots/upgrade-subscription.png)
 
-#### Delete Subscription
-![Delete Subscription](screenshots/07-delete-subscription.png)
+
 
 ---
 
 ### Content APIs
 
 #### Create Content
-![Create Content](screenshots/08-create-content.png)
+![Create Content](screenshots/create-content.png)
 
 #### Fetch Content (Subscription Protected)
-![Fetch Content](screenshots/09-fetch-content.png)
+![Fetch Content](screenshots/retrieve-content.png)
 
 
 ### Database Tables
