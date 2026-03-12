@@ -23,10 +23,10 @@ A comprehensive backend API for a premium content platform where users must have
 ### User Authentication
 
 #### Register User
-![Register](screenshots/01-user-register-success.png)
+![Register](screenshots/user-register.png)
 
 #### Login User
-![Login](screenshots/02-user-login-jwt.png)
+![Login](screenshots/user-login.png)
 
 ---
 
